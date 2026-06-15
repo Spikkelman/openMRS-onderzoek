@@ -33,7 +33,7 @@
     <legacyui.version>2.1.0</legacyui.version>
     <metadatamapping.version>2.0.0</metadatamapping.version>
     <metadatasharing.version>1.2.2</metadatasharing.version>
-    <dataexchange.version>1.3.3</dataexchange.version>
+    <dataexchange.version>1.3.8</dataexchange.version>
     <metadatadeploy.version>1.10.0</metadatadeploy.version>
     <referencemetadata.version>2.13.0</referencemetadata.version>
     <openconceptlab.version>3.0.0</openconceptlab.version>
